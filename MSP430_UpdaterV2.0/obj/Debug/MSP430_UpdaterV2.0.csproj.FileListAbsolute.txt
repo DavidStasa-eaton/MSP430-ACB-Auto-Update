@@ -1,0 +1,15 @@
+C:\Users\e0592991\source\repos\MSP430_UpdaterV2.0\MSP430_UpdaterV2.0\bin\Debug\MSP430_UpdaterV2.0.exe.config
+C:\Users\e0592991\source\repos\MSP430_UpdaterV2.0\MSP430_UpdaterV2.0\bin\Debug\MSP430_UpdaterV2.0.exe
+C:\Users\e0592991\source\repos\MSP430_UpdaterV2.0\MSP430_UpdaterV2.0\bin\Debug\MSP430_UpdaterV2.0.pdb
+C:\Users\e0592991\source\repos\MSP430_UpdaterV2.0\MSP430_UpdaterV2.0\bin\Debug\AcroLibrary.dll
+C:\Users\e0592991\source\repos\MSP430_UpdaterV2.0\MSP430_UpdaterV2.0\bin\Debug\BrainStem2CLI.dll
+C:\Users\e0592991\source\repos\MSP430_UpdaterV2.0\MSP430_UpdaterV2.0\bin\Debug\AcroLibrary.pdb
+C:\Users\e0592991\source\repos\MSP430_UpdaterV2.0\MSP430_UpdaterV2.0\obj\Debug\MSP430_UpdaterV2.0.csprojAssemblyReference.cache
+C:\Users\e0592991\source\repos\MSP430_UpdaterV2.0\MSP430_UpdaterV2.0\obj\Debug\MSP430_UpdaterV2.0.exe.config
+C:\Users\e0592991\source\repos\MSP430_UpdaterV2.0\MSP430_UpdaterV2.0\obj\Debug\MSP430_UpdaterV2._0.Form1.resources
+C:\Users\e0592991\source\repos\MSP430_UpdaterV2.0\MSP430_UpdaterV2.0\obj\Debug\MSP430_UpdaterV2._0.Properties.Resources.resources
+C:\Users\e0592991\source\repos\MSP430_UpdaterV2.0\MSP430_UpdaterV2.0\obj\Debug\MSP430_UpdaterV2.0.csproj.GenerateResource.cache
+C:\Users\e0592991\source\repos\MSP430_UpdaterV2.0\MSP430_UpdaterV2.0\obj\Debug\MSP430_UpdaterV2.0.csproj.CoreCompileInputs.cache
+C:\Users\e0592991\source\repos\MSP430_UpdaterV2.0\MSP430_UpdaterV2.0\obj\Debug\MSP430_UpdaterV2.0.csproj.CopyComplete
+C:\Users\e0592991\source\repos\MSP430_UpdaterV2.0\MSP430_UpdaterV2.0\obj\Debug\MSP430_UpdaterV2.0.exe
+C:\Users\e0592991\source\repos\MSP430_UpdaterV2.0\MSP430_UpdaterV2.0\obj\Debug\MSP430_UpdaterV2.0.pdb

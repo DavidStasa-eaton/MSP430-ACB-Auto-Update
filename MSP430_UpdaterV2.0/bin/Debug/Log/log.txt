@@ -1,0 +1,296 @@
+Thu Jun 17 11:36:14 2021:	* -----/|-------------------------------------------------------------------- *
+Thu Jun 17 11:36:14 2021:	*     / |__                                                                   *
+Thu Jun 17 11:36:14 2021:	*    /_   /   MSP Flasher v1.3.20                                             *
+Thu Jun 17 11:36:14 2021:	*      | /                                                                    *
+Thu Jun 17 11:36:14 2021:	* -----|/-------------------------------------------------------------------- *
+Thu Jun 17 11:36:14 2021:	*
+Thu Jun 17 11:36:14 2021:	* Evaluating triggers...done
+Thu Jun 17 11:36:14 2021:	* Checking for available FET debuggers: 
+Thu Jun 17 11:36:14 2021:	* Couldn't find any connected USB FETs!
+Thu Jun 17 11:36:14 2021:	* Starting target code execution...done
+Thu Jun 17 11:36:14 2021:	* Disconnecting from device...done
+Thu Jun 17 11:36:14 2021:	* 
+Thu Jun 17 11:36:14 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 11:36:14 2021:	* Driver      : closed (MSP DebugStack not initialized)
+Thu Jun 17 11:36:14 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 11:36:14 2021:	*/
+Thu Jun 17 12:20:54 2021:	* -----/|-------------------------------------------------------------------- *
+Thu Jun 17 12:20:54 2021:	*     / |__                                                                   *
+Thu Jun 17 12:20:54 2021:	*    /_   /   MSP Flasher v1.3.20                                             *
+Thu Jun 17 12:20:54 2021:	*      | /                                                                    *
+Thu Jun 17 12:20:54 2021:	* -----|/-------------------------------------------------------------------- *
+Thu Jun 17 12:20:54 2021:	*
+Thu Jun 17 12:20:54 2021:	* Evaluating triggers...done
+Thu Jun 17 12:20:54 2021:	* Checking for available FET debuggers: 
+Thu Jun 17 12:20:54 2021:	* Couldn't find any connected USB FETs!
+Thu Jun 17 12:20:54 2021:	* Starting target code execution...done
+Thu Jun 17 12:20:54 2021:	* Disconnecting from device...done
+Thu Jun 17 12:20:54 2021:	* 
+Thu Jun 17 12:20:54 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 12:20:54 2021:	* Driver      : closed (MSP DebugStack not initialized)
+Thu Jun 17 12:20:54 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 12:20:54 2021:	*/
+Thu Jun 17 12:20:56 2021:	* -----/|-------------------------------------------------------------------- *
+Thu Jun 17 12:20:56 2021:	*     / |__                                                                   *
+Thu Jun 17 12:20:56 2021:	*    /_   /   MSP Flasher v1.3.20                                             *
+Thu Jun 17 12:20:56 2021:	*      | /                                                                    *
+Thu Jun 17 12:20:56 2021:	* -----|/-------------------------------------------------------------------- *
+Thu Jun 17 12:20:56 2021:	*
+Thu Jun 17 12:20:56 2021:	* Evaluating triggers...done
+Thu Jun 17 12:20:56 2021:	* Checking for available FET debuggers: 
+Thu Jun 17 12:20:56 2021:	* Found USB FET @ COM9 <- Selected
+Thu Jun 17 12:20:56 2021:	* Initializing interface @ COM9...done
+Thu Jun 17 12:20:57 2021:	* Checking firmware compatibility: 
+Thu Jun 17 12:20:57 2021:	* FET firmware is up to date.
+Thu Jun 17 12:20:57 2021:	* Reading FW version...done
+Thu Jun 17 12:20:57 2021:	* Setting VCC to 3000 mV...done
+Thu Jun 17 12:20:58 2021:	* Accessing device...done
+Thu Jun 17 12:20:58 2021:	* Reading device information...done
+Thu Jun 17 12:20:58 2021:	* Loading file into device...done
+Thu Jun 17 12:21:14 2021:	* Verifying memory (\\chvippa02\swap\Arisumi\Programs\3.00.0013\ETU_MCU1.txt)...done
+Thu Jun 17 12:21:17 2021:	* 
+Thu Jun 17 12:21:17 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 12:21:17 2021:	* Arguments   : -w \\chvippa02\swap\Arisumi\Programs\3.00.0013\ETU_MCU1.txt -v -z [VCC] 
+Thu Jun 17 12:21:17 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 12:21:17 2021:	* Driver      : loaded
+Thu Jun 17 12:21:17 2021:	* Dll Version : 31400000
+Thu Jun 17 12:21:17 2021:	* FwVersion   : 31100001
+Thu Jun 17 12:21:17 2021:	* Interface   : TIUSB
+Thu Jun 17 12:21:17 2021:	* HwVersion   : U 1.40
+Thu Jun 17 12:21:17 2021:	* JTAG Mode   : AUTO
+Thu Jun 17 12:21:17 2021:	* Device      : MSP430F67791
+Thu Jun 17 12:21:17 2021:	* EEM         : Level 7, ClockCntrl 2
+Thu Jun 17 12:21:17 2021:	* Erase Mode  : ERASE_ALL
+Thu Jun 17 12:21:17 2021:	* Prog.File   : \\chvippa02\swap\Arisumi\Programs\3.00.0013\ETU_MCU1.txt
+Thu Jun 17 12:21:17 2021:	* Verified    : TRUE
+Thu Jun 17 12:21:17 2021:	* BSL Unlock  : FALSE
+Thu Jun 17 12:21:17 2021:	* InfoA Access: FALSE
+Thu Jun 17 12:21:17 2021:	* VCC ON      : 3000 mV
+Thu Jun 17 12:21:17 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 12:21:17 2021:	* Starting target code execution...done
+Thu Jun 17 12:21:18 2021:	* Disconnecting from device...done
+Thu Jun 17 12:21:18 2021:	* 
+Thu Jun 17 12:21:18 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 12:21:18 2021:	* Driver      : closed (No error)
+Thu Jun 17 12:21:18 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 12:21:18 2021:	*/
+Thu Jun 17 12:21:23 2021:	* -----/|-------------------------------------------------------------------- *
+Thu Jun 17 12:21:23 2021:	*     / |__                                                                   *
+Thu Jun 17 12:21:23 2021:	*    /_   /   MSP Flasher v1.3.20                                             *
+Thu Jun 17 12:21:23 2021:	*      | /                                                                    *
+Thu Jun 17 12:21:23 2021:	* -----|/-------------------------------------------------------------------- *
+Thu Jun 17 12:21:23 2021:	*
+Thu Jun 17 12:21:23 2021:	* Evaluating triggers...done
+Thu Jun 17 12:21:23 2021:	* Checking for available FET debuggers: 
+Thu Jun 17 12:21:23 2021:	* Found USB FET @ COM4 <- Selected
+Thu Jun 17 12:21:23 2021:	* Initializing interface @ COM4...done
+Thu Jun 17 12:21:23 2021:	* Checking firmware compatibility: 
+Thu Jun 17 12:21:23 2021:	* FET firmware is up to date.
+Thu Jun 17 12:21:23 2021:	* Reading FW version...done
+Thu Jun 17 12:21:23 2021:	* Setting VCC to 3000 mV...done
+Thu Jun 17 12:21:24 2021:	* Accessing device...done
+Thu Jun 17 12:21:25 2021:	* Reading device information...done
+Thu Jun 17 12:21:25 2021:	* Loading file into device...done
+Thu Jun 17 12:21:41 2021:	* Verifying memory (\\chvippa02\swap\Arisumi\Programs\3.00.0013\ETU_MCU2_Flash.txt)...done
+Thu Jun 17 12:21:44 2021:	* 
+Thu Jun 17 12:21:44 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 12:21:44 2021:	* Arguments   : -w \\chvippa02\swap\Arisumi\Programs\3.00.0013\ETU_MCU2_Flash.txt -v -z [VCC] 
+Thu Jun 17 12:21:44 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 12:21:44 2021:	* Driver      : loaded
+Thu Jun 17 12:21:44 2021:	* Dll Version : 31400000
+Thu Jun 17 12:21:44 2021:	* FwVersion   : 31100001
+Thu Jun 17 12:21:44 2021:	* Interface   : TIUSB
+Thu Jun 17 12:21:44 2021:	* HwVersion   : U 1.40
+Thu Jun 17 12:21:44 2021:	* JTAG Mode   : AUTO
+Thu Jun 17 12:21:44 2021:	* Device      : MSP430F5659
+Thu Jun 17 12:21:44 2021:	* EEM         : Level 7, ClockCntrl 2
+Thu Jun 17 12:21:44 2021:	* Erase Mode  : ERASE_ALL
+Thu Jun 17 12:21:44 2021:	* Prog.File   : \\chvippa02\swap\Arisumi\Programs\3.00.0013\ETU_MCU2_Flash.txt
+Thu Jun 17 12:21:44 2021:	* Verified    : TRUE
+Thu Jun 17 12:21:44 2021:	* BSL Unlock  : FALSE
+Thu Jun 17 12:21:44 2021:	* InfoA Access: FALSE
+Thu Jun 17 12:21:44 2021:	* VCC ON      : 3000 mV
+Thu Jun 17 12:21:44 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 12:21:44 2021:	* Starting target code execution...done
+Thu Jun 17 12:21:45 2021:	* Disconnecting from device...done
+Thu Jun 17 12:21:45 2021:	* 
+Thu Jun 17 12:21:45 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 12:21:45 2021:	* Driver      : closed (No error)
+Thu Jun 17 12:21:45 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 12:21:45 2021:	*/
+Thu Jun 17 12:22:19 2021:	* -----/|-------------------------------------------------------------------- *
+Thu Jun 17 12:22:19 2021:	*     / |__                                                                   *
+Thu Jun 17 12:22:19 2021:	*    /_   /   MSP Flasher v1.3.20                                             *
+Thu Jun 17 12:22:19 2021:	*      | /                                                                    *
+Thu Jun 17 12:22:19 2021:	* -----|/-------------------------------------------------------------------- *
+Thu Jun 17 12:22:19 2021:	*
+Thu Jun 17 12:22:19 2021:	* Evaluating triggers...done
+Thu Jun 17 12:22:19 2021:	* Checking for available FET debuggers: 
+Thu Jun 17 12:22:19 2021:	* Found USB FET @ COM4 <- Selected
+Thu Jun 17 12:22:19 2021:	* Initializing interface @ COM4...done
+Thu Jun 17 12:22:20 2021:	* Checking firmware compatibility: 
+Thu Jun 17 12:22:20 2021:	* FET firmware is up to date.
+Thu Jun 17 12:22:20 2021:	* Reading FW version...done
+Thu Jun 17 12:22:20 2021:	* Setting VCC to 3000 mV...done
+Thu Jun 17 12:22:21 2021:	* Accessing device...done
+Thu Jun 17 12:22:21 2021:	* Reading device information...done
+Thu Jun 17 12:22:21 2021:	* Loading file into device...done
+Thu Jun 17 12:22:47 2021:	* Verifying memory (\\chvippa02\swap\Arisumi\Programs\3.00.0013\ETU_MCU2.txt)...done
+Thu Jun 17 12:22:52 2021:	* 
+Thu Jun 17 12:22:52 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 12:22:52 2021:	* Arguments   : -w \\chvippa02\swap\Arisumi\Programs\3.00.0013\ETU_MCU2.txt -v -z [VCC] 
+Thu Jun 17 12:22:52 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 12:22:52 2021:	* Driver      : loaded
+Thu Jun 17 12:22:52 2021:	* Dll Version : 31400000
+Thu Jun 17 12:22:52 2021:	* FwVersion   : 31100001
+Thu Jun 17 12:22:52 2021:	* Interface   : TIUSB
+Thu Jun 17 12:22:52 2021:	* HwVersion   : U 1.40
+Thu Jun 17 12:22:52 2021:	* JTAG Mode   : AUTO
+Thu Jun 17 12:22:52 2021:	* Device      : MSP430F5659
+Thu Jun 17 12:22:52 2021:	* EEM         : Level 7, ClockCntrl 2
+Thu Jun 17 12:22:52 2021:	* Erase Mode  : ERASE_ALL
+Thu Jun 17 12:22:52 2021:	* Prog.File   : \\chvippa02\swap\Arisumi\Programs\3.00.0013\ETU_MCU2.txt
+Thu Jun 17 12:22:52 2021:	* Verified    : TRUE
+Thu Jun 17 12:22:52 2021:	* BSL Unlock  : FALSE
+Thu Jun 17 12:22:52 2021:	* InfoA Access: FALSE
+Thu Jun 17 12:22:52 2021:	* VCC ON      : 3000 mV
+Thu Jun 17 12:22:52 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 12:22:52 2021:	* Starting target code execution...done
+Thu Jun 17 12:22:53 2021:	* Disconnecting from device...done
+Thu Jun 17 12:22:53 2021:	* 
+Thu Jun 17 12:22:53 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 12:22:53 2021:	* Driver      : closed (No error)
+Thu Jun 17 12:22:53 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 12:22:53 2021:	*/
+Thu Jun 17 14:13:20 2021:	* -----/|-------------------------------------------------------------------- *
+Thu Jun 17 14:13:20 2021:	*     / |__                                                                   *
+Thu Jun 17 14:13:20 2021:	*    /_   /   MSP Flasher v1.3.20                                             *
+Thu Jun 17 14:13:20 2021:	*      | /                                                                    *
+Thu Jun 17 14:13:20 2021:	* -----|/-------------------------------------------------------------------- *
+Thu Jun 17 14:13:20 2021:	*
+Thu Jun 17 14:13:20 2021:	* Evaluating triggers...done
+Thu Jun 17 14:13:20 2021:	* Checking for available FET debuggers: 
+Thu Jun 17 14:13:21 2021:	* Found USB FET @ COM9 <- Selected
+Thu Jun 17 14:13:21 2021:	* Initializing interface @ COM9...done
+Thu Jun 17 14:13:21 2021:	* Checking firmware compatibility: 
+Thu Jun 17 14:13:21 2021:	* FET firmware is up to date.
+Thu Jun 17 14:13:21 2021:	* Reading FW version...done
+Thu Jun 17 14:13:21 2021:	* Setting VCC to 3000 mV...done
+Thu Jun 17 14:13:22 2021:	* Accessing device...done
+Thu Jun 17 14:13:22 2021:	* Reading device information...done
+Thu Jun 17 14:13:22 2021:	* Loading file into device...done
+Thu Jun 17 14:13:38 2021:	* Verifying memory (\\chvippa02\swap\Arisumi\Programs\3.00.0013\ETU_MCU1.txt)...done
+Thu Jun 17 14:13:42 2021:	* 
+Thu Jun 17 14:13:42 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 14:13:42 2021:	* Arguments   : -w \\chvippa02\swap\Arisumi\Programs\3.00.0013\ETU_MCU1.txt -v -z [VCC] 
+Thu Jun 17 14:13:42 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 14:13:42 2021:	* Driver      : loaded
+Thu Jun 17 14:13:42 2021:	* Dll Version : 31400000
+Thu Jun 17 14:13:42 2021:	* FwVersion   : 31100001
+Thu Jun 17 14:13:42 2021:	* Interface   : TIUSB
+Thu Jun 17 14:13:42 2021:	* HwVersion   : U 1.40
+Thu Jun 17 14:13:42 2021:	* JTAG Mode   : AUTO
+Thu Jun 17 14:13:42 2021:	* Device      : MSP430F67791
+Thu Jun 17 14:13:42 2021:	* EEM         : Level 7, ClockCntrl 2
+Thu Jun 17 14:13:42 2021:	* Erase Mode  : ERASE_ALL
+Thu Jun 17 14:13:42 2021:	* Prog.File   : \\chvippa02\swap\Arisumi\Programs\3.00.0013\ETU_MCU1.txt
+Thu Jun 17 14:13:42 2021:	* Verified    : TRUE
+Thu Jun 17 14:13:42 2021:	* BSL Unlock  : FALSE
+Thu Jun 17 14:13:42 2021:	* InfoA Access: FALSE
+Thu Jun 17 14:13:42 2021:	* VCC ON      : 3000 mV
+Thu Jun 17 14:13:42 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 14:13:42 2021:	* Starting target code execution...done
+Thu Jun 17 14:13:42 2021:	* Disconnecting from device...done
+Thu Jun 17 14:13:42 2021:	* 
+Thu Jun 17 14:13:42 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 14:13:42 2021:	* Driver      : closed (No error)
+Thu Jun 17 14:13:42 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 14:13:42 2021:	*/
+Thu Jun 17 14:13:47 2021:	* -----/|-------------------------------------------------------------------- *
+Thu Jun 17 14:13:47 2021:	*     / |__                                                                   *
+Thu Jun 17 14:13:47 2021:	*    /_   /   MSP Flasher v1.3.20                                             *
+Thu Jun 17 14:13:47 2021:	*      | /                                                                    *
+Thu Jun 17 14:13:47 2021:	* -----|/-------------------------------------------------------------------- *
+Thu Jun 17 14:13:47 2021:	*
+Thu Jun 17 14:13:47 2021:	* Evaluating triggers...done
+Thu Jun 17 14:13:47 2021:	* Checking for available FET debuggers: 
+Thu Jun 17 14:13:47 2021:	* Found USB FET @ COM4 <- Selected
+Thu Jun 17 14:13:47 2021:	* Initializing interface @ COM4...done
+Thu Jun 17 14:13:47 2021:	* Checking firmware compatibility: 
+Thu Jun 17 14:13:47 2021:	* FET firmware is up to date.
+Thu Jun 17 14:13:47 2021:	* Reading FW version...done
+Thu Jun 17 14:13:47 2021:	* Setting VCC to 3000 mV...done
+Thu Jun 17 14:13:48 2021:	* Accessing device...done
+Thu Jun 17 14:13:49 2021:	* Reading device information...done
+Thu Jun 17 14:13:49 2021:	* Loading file into device...done
+Thu Jun 17 14:14:05 2021:	* Verifying memory (\\chvippa02\swap\Arisumi\Programs\3.00.0013\ETU_MCU2_Flash.txt)...done
+Thu Jun 17 14:14:09 2021:	* 
+Thu Jun 17 14:14:09 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 14:14:09 2021:	* Arguments   : -w \\chvippa02\swap\Arisumi\Programs\3.00.0013\ETU_MCU2_Flash.txt -v -z [VCC] 
+Thu Jun 17 14:14:09 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 14:14:09 2021:	* Driver      : loaded
+Thu Jun 17 14:14:09 2021:	* Dll Version : 31400000
+Thu Jun 17 14:14:09 2021:	* FwVersion   : 31100001
+Thu Jun 17 14:14:09 2021:	* Interface   : TIUSB
+Thu Jun 17 14:14:09 2021:	* HwVersion   : U 1.40
+Thu Jun 17 14:14:09 2021:	* JTAG Mode   : AUTO
+Thu Jun 17 14:14:09 2021:	* Device      : MSP430F5659
+Thu Jun 17 14:14:09 2021:	* EEM         : Level 7, ClockCntrl 2
+Thu Jun 17 14:14:09 2021:	* Erase Mode  : ERASE_ALL
+Thu Jun 17 14:14:09 2021:	* Prog.File   : \\chvippa02\swap\Arisumi\Programs\3.00.0013\ETU_MCU2_Flash.txt
+Thu Jun 17 14:14:09 2021:	* Verified    : TRUE
+Thu Jun 17 14:14:09 2021:	* BSL Unlock  : FALSE
+Thu Jun 17 14:14:09 2021:	* InfoA Access: FALSE
+Thu Jun 17 14:14:09 2021:	* VCC ON      : 3000 mV
+Thu Jun 17 14:14:09 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 14:14:09 2021:	* Starting target code execution...done
+Thu Jun 17 14:14:09 2021:	* Disconnecting from device...done
+Thu Jun 17 14:14:09 2021:	* 
+Thu Jun 17 14:14:09 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 14:14:09 2021:	* Driver      : closed (No error)
+Thu Jun 17 14:14:09 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 14:14:09 2021:	*/
+Thu Jun 17 14:14:44 2021:	* -----/|-------------------------------------------------------------------- *
+Thu Jun 17 14:14:44 2021:	*     / |__                                                                   *
+Thu Jun 17 14:14:44 2021:	*    /_   /   MSP Flasher v1.3.20                                             *
+Thu Jun 17 14:14:44 2021:	*      | /                                                                    *
+Thu Jun 17 14:14:44 2021:	* -----|/-------------------------------------------------------------------- *
+Thu Jun 17 14:14:44 2021:	*
+Thu Jun 17 14:14:44 2021:	* Evaluating triggers...done
+Thu Jun 17 14:14:44 2021:	* Checking for available FET debuggers: 
+Thu Jun 17 14:14:44 2021:	* Found USB FET @ COM4 <- Selected
+Thu Jun 17 14:14:44 2021:	* Initializing interface @ COM4...done
+Thu Jun 17 14:14:44 2021:	* Checking firmware compatibility: 
+Thu Jun 17 14:14:44 2021:	* FET firmware is up to date.
+Thu Jun 17 14:14:44 2021:	* Reading FW version...done
+Thu Jun 17 14:14:44 2021:	* Setting VCC to 3000 mV...done
+Thu Jun 17 14:14:45 2021:	* Accessing device...done
+Thu Jun 17 14:14:46 2021:	* Reading device information...done
+Thu Jun 17 14:14:46 2021:	* Loading file into device...done
+Thu Jun 17 14:15:12 2021:	* Verifying memory (\\chvippa02\swap\Arisumi\Programs\3.00.0013\ETU_MCU2.txt)...done
+Thu Jun 17 14:15:17 2021:	* 
+Thu Jun 17 14:15:17 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 14:15:17 2021:	* Arguments   : -w \\chvippa02\swap\Arisumi\Programs\3.00.0013\ETU_MCU2.txt -v -z [VCC] 
+Thu Jun 17 14:15:17 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 14:15:17 2021:	* Driver      : loaded
+Thu Jun 17 14:15:17 2021:	* Dll Version : 31400000
+Thu Jun 17 14:15:17 2021:	* FwVersion   : 31100001
+Thu Jun 17 14:15:17 2021:	* Interface   : TIUSB
+Thu Jun 17 14:15:17 2021:	* HwVersion   : U 1.40
+Thu Jun 17 14:15:17 2021:	* JTAG Mode   : AUTO
+Thu Jun 17 14:15:17 2021:	* Device      : MSP430F5659
+Thu Jun 17 14:15:17 2021:	* EEM         : Level 7, ClockCntrl 2
+Thu Jun 17 14:15:17 2021:	* Erase Mode  : ERASE_ALL
+Thu Jun 17 14:15:17 2021:	* Prog.File   : \\chvippa02\swap\Arisumi\Programs\3.00.0013\ETU_MCU2.txt
+Thu Jun 17 14:15:17 2021:	* Verified    : TRUE
+Thu Jun 17 14:15:17 2021:	* BSL Unlock  : FALSE
+Thu Jun 17 14:15:17 2021:	* InfoA Access: FALSE
+Thu Jun 17 14:15:17 2021:	* VCC ON      : 3000 mV
+Thu Jun 17 14:15:17 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 14:15:17 2021:	* Starting target code execution...done
+Thu Jun 17 14:15:18 2021:	* Disconnecting from device...done
+Thu Jun 17 14:15:18 2021:	* 
+Thu Jun 17 14:15:18 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 14:15:18 2021:	* Driver      : closed (No error)
+Thu Jun 17 14:15:18 2021:	* ----------------------------------------------------------------------------
+Thu Jun 17 14:15:18 2021:	*/
