@@ -8,10 +8,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-
-
-namespace MSP430_UpdaterV2._0.Properties
-{
+namespace MSP430_UpdaterV2._0.Properties {
+    using System;
+    
+    
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
     /// </summary>
@@ -19,52 +19,74 @@ namespace MSP430_UpdaterV2._0.Properties
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Resources
-    {
-
+    internal class Resources {
+        
         private static global::System.Resources.ResourceManager resourceMan;
-
+        
         private static global::System.Globalization.CultureInfo resourceCulture;
-
+        
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal Resources()
-        {
+        internal Resources() {
         }
-
+        
         /// <summary>
         ///   Returns the cached ResourceManager instance used by this class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager
-        {
-            get
-            {
-                if ((resourceMan == null))
-                {
+        internal static global::System.Resources.ResourceManager ResourceManager {
+            get {
+                if (object.ReferenceEquals(resourceMan, null)) {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("MSP430_UpdaterV2._0.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
             }
         }
-
+        
         /// <summary>
         ///   Overrides the current thread's CurrentUICulture property for all
         ///   resource lookups using this strongly typed resource class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture
-        {
-            get
-            {
+        internal static global::System.Globalization.CultureInfo Culture {
+            get {
                 return resourceCulture;
             }
-            set
-            {
+            set {
                 resourceCulture = value;
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to @c000
+        ///BF 14 B1 00 14 00 82 43 0E 08 92 93 B0 5B 0E 20 
+        ///82 93 E4 1F 0B 20 92 52 FC 20 DE 1F 92 53 DC 1F 
+        ///B2 90 40 00 DC 1F 02 20 92 43 E4 1F 1F 42 12 21 
+        ///4F 02 9F 42 FC 20 1A 21 1F 42 12 21 4F 02 9F 42 
+        ///06 21 2A 21 1F 42 12 21 4F 02 9F 42 08 21 3A 21 
+        ///92 53 12 21 B2 92 12 21 02 20 82 43 12 21 92 42 
+        ///0A 21 16 21 92 42 0C 21 18 21 5F 42 25 1C 5F 03 
+        ///1F B3 16 24 B2 90 10 00 14 21 12 2C 1F 42 14 21 
+        ///4F 02 9F 42 10 21 4A 21 92 53 14 21 B2 90 10 00 
+        ///14 21 06 20 5F 42 25 1C 5F C3 5F D3 C2 4F 25 1C 
+        ///92 B3 [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string ETU_MCU1_preload_project {
+            get {
+                return ResourceManager.GetString("ETU_MCU1_preload_project", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap loadingGif {
+            get {
+                object obj = ResourceManager.GetObject("loadingGif", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
     }

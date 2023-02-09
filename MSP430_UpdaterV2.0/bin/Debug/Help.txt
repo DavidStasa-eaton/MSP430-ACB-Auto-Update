@@ -1,0 +1,55 @@
+Getting Started
+1) Press the "Upload Firmware Folder" button and navigate to the inner most folder where the firmware is stored and select "Open".
+	Note: Make sure the folder only contains the intended version of the ETU_MCU# files. If the folder is selected correctly
+	then you should see the file path for each of the firmware files.
+2) If using the "Upload ... File" buttons, select the respective firmware files for MCU1 and MCU2 from the file directory.
+	Note: MCU2 has two files, one is the flash (MCU2 Flash File) and one is the regular program (MCU2 File).
+	PLEASE MAKE SURE TO MATCH THE FILE NAMES.
+3) Once the correct files are selected, press either the Two or Single Programmer Update button. See the respective sections
+for more details.
+4) Prompts will appear throughout the programming to highlight the current processes. 
+If an error occurs try restarting the whole process.
+
+Single Programmer Firmware Update
+Requirements: One MSP430 USB-Debug-Interface Programmer, Two USB connections
+1) Plug both the board and the programmer into any avaliable USB port
+2) When prompted please make required connections and power cycle the board but unplugging it and plugging it back in.
+3) After making the connections, press the button in order to continue update process. 
+4) Update should be complete as long as connections were made correctly.  
+
+Two Programmer Firmware Update
+Requirements: Two MSP430 USB-Debug-Interface Programmer, Acroname programmable USB
+Acroname Connections
+Port 0: Connect the board power source
+Port 4: Connect MCU1 Programmer
+Port 6: Connect MCU2 Programmer
+1) Plug both the board and the programmers into the respective ports listed above.
+2) Press "Start Two Programmer Firmware Update"
+3) Update should complete automatically as long as connections were made correctly.  
+
+Error Messages:
+Error Connecting to the Acroname
+There was a failure connecting to the programmable USB ports.
+Solution: Power Cycle the acroname and restart the program.
+
+Could Not Program MCU1
+Something went wrong trying to connect to the MCU1 Programmer/microcontroller
+Solution: Make sure programmer connections are made correctly and are in the right orientation. 
+After checking, try power cycling and restarting the program. 
+
+Could Not Flash MCU2
+Something went wrong trying to connect to and flash MCU2.
+Solution: Make sure connections are made correctly. Try power cycling and restarting the program. 
+Note: There have been boards with bad MCU2 connections, this could also be a possibility. 
+Check "log.txt" within the debug folder if using Visual Studios version. There will be an error log explaining
+whether it could connect to the microcontroller. If it says "Unknown device" its likely that MCU2 is broken.
+
+Could Not Program MCU2
+Something went wrong with the connection to MCU2. 
+Solution: Likely the connection became undone. Try reconnecting and restart the program.
+
+If there are any unsolved complications, please email rileyalyssa3@gmail.com.
+
+
+
+
